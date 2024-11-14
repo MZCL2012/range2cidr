@@ -1,1 +1,1 @@
-ipv4/ipv6 range can be trans to cidr sets.
+IPv4/IPv6 ranges can be converted to CIDR sets.
